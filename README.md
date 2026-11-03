@@ -8,14 +8,14 @@
 - Mã số sinh viên: B2404923
 - Ngành học: Hệ thống thông tin
 
-💖 2. Sở thích
+💖 Sở thích
 - 🎵 Nghe nhạc và khám phá những giai điệu mới.
 - 📸 Chụp ảnh, lưu giữ những khoảnh khắc đẹp.
 - 💻 Tìm hiểu công nghệ và học hỏi những điều mới.
 - 🌱 Tham gia các hoạt động tình nguyện và cộng đồng.
 - ✈️ Du lịch, khám phá những vùng đất mới.
 
-🎸 4. Bài tập nhóm – Website bán nhạc c
+🎸 Bài tập nhóm – Website bán nhạc cụ
  📌 Giới thiệu dự án
 Website bán nhạc cụ là dự án được thực hiện trong quá trình học tập nhằm xây dựng một hệ thống bán hàng trực tuyến, giúp khách hàng dễ dàng tìm kiếm, xem thông tin và lựa chọn các sản phẩm nhạc cụ phù hợp với nhu cầu.
 
